@@ -6,13 +6,13 @@ A game which shows you a rgb number and the user will have to guess the correct 
 
 ### Hard Level
 
-![Hard Level](public/ss/hard.jpg)
+![Hard Level](public/ss/hard.JPG)
 <br><br><br>
 ### Easy Level
 
-![Easy Level](public/ss/easy.jpg)
+![Easy Level](public/ss/easy.JPG)
 <br><br><br>
 ### Winning a Game
 
-![Game Win](public/ss/game_win.jpg)
+![Game Win](public/ss/game_win.JPG)
 <br><br><br>
